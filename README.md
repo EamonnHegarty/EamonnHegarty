@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EamonnHegarty
+- 👀 I’m interested in full stack development and all things technology
+- 🌱 I’m currently learning REACT, SAPUI5 and Appgyver (No code)
